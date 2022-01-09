@@ -22,3 +22,11 @@ The main goal is to find the best move in a given chess position. You should out
 ## Additional Information
 For more information, you can visit the official [chess website](Chess.com/rules). <br>
 You can practice these rules while [playing chess](chess.com).
+
+## Contact Me
+<p align="center">
+	<a href="mailto:sanakahnn@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/sanaa-khan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sana-khan-95a9771b3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
